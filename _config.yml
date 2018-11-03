@@ -5,7 +5,7 @@ description:        "Deep learner/Research Assistant"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/me1.jpg'
-background:         'assets/img/sky1.jpg'
+background:         'assets/img/sky2.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://www.sharansundar.com
