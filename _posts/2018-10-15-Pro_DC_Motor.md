@@ -26,7 +26,7 @@ I guess some Electronics stuff.
  The behaviour of the DC motor is polymial as observed from the graph below.
 
 <figure>
-	<a href="https://www.sharansundar.com/Pro_DC_Motor/"><img src="Graph.png"></a>
+	<a href="https://www.sharansundar.com/Pro_DC_Motor/"><img src="assets/img/Graph.png"></a>
 	<figcaption><center>RPM vs PWM of 2 different 12V DC motors</a>.</center></figcaption>
 </figure>
 
