@@ -10,6 +10,7 @@ tag:
 - Occupancy
 - Features
 - Forecasting
+feature: Graph.png
 comments: true
 ---
 # ML for DC_Motor_Control
@@ -25,7 +26,7 @@ I guess some Electronics stuff.
  The behaviour of the DC motor is polymial as observed from the graph below.
 
 <figure>
-	<a href="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg"><img src="Graph.png"></a>
+	<a href="https://www.sharansundar.com/Pro_DC_Motor/"><img src="Graph.png"></a>
 	<figcaption><center>RPM vs PWM of 2 different 12V DC motors</a>.</center></figcaption>
 </figure>
 
