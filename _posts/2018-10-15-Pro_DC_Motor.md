@@ -10,7 +10,7 @@ tag:
 - Occupancy
 - Features
 - Forecasting
-feature: Graph.png
+feature: /assets/img/c1.jpg
 comments: true
 ---
 # ML for DC_Motor_Control
