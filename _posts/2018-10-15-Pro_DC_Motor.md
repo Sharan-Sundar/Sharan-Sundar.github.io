@@ -36,3 +36,5 @@ The similar behaviour of the graphs of motors of different specifications leads 
 
 ### Future work
 Make polynomial regression compatible with arduino.
+
+View code <a href="https://github.com/Sharan-Sundar/DC_Motor_Control_using_ML" target=" ">here</a>.
